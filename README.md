@@ -13,10 +13,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-SamanaDahal1-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/SamanaDahal1)
 
-[ SYSTEM MESSAGE ]
+
 Consistency is the real superpower.
 ```
-
-`</ end_of_file >`
-
-</div>
