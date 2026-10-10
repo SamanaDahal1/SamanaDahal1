@@ -9,8 +9,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-SamanaDahal1-C4A1FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/SamanaDahal1)
 
-<br>
-
-*Consistency is the real superpower.* ♡
-
 </div>
