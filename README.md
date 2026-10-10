@@ -2,7 +2,9 @@
 
 # `> Samana Dahal_`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Java+Learner;Exploring+Backend+Development;Learning+One+Line+at+a+Time" alt="Typing introduction" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C850C0&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Samana+Dahal;Learner;In+Progress" alt="Typing introduction" />
+
 
 **`[ JAVA LEARNER ]`**
 
