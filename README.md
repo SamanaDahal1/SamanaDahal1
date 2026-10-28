@@ -2,7 +2,7 @@
 
 # <span style="color:#C4A1FF">` Samana Dahal`</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C4A1FF&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Samana+Dahal;Learner;In+Progress" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C4A1FF&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Samana+Dahal;In+Progress" alt="Typing introduction" />
 
 
 *Learning. Building. Improving.*
